@@ -13,6 +13,17 @@ class BerryCommon {
 
 };
 
+struct BerryBullet {
+
+
+    BerryBullet() {
+
+
+
+    }
+
+};
+
 
 int main(int argc,char** args) {
 
